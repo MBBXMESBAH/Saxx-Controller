@@ -1,4 +1,4 @@
 {
-  "status": false,
+  "status": true,
   "message": "Your not authorized to use this command please contact with Mesbah Saxx\n\nFB: https://www.facebook.com/profile.php?id=100076178593063"
 }
