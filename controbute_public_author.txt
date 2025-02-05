@@ -1,0 +1,6 @@
+{
+  "MesbahXRedwan": {
+    "author": "Mesbah Saxx | Redwan",
+    "message": "Maybe the command author has changed 🌚.\n\nYou are not allowed to change the author name, please 😞. Brother, fix the author and then use the command."
+  }
+}
